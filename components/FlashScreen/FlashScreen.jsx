@@ -16,7 +16,7 @@ export default function FlashScreen({
   underlineColor = "#ffffff",
   animationType = "fade", // "fade", "pulse", "bounce", "none"
   customStyles = {},
-  fontFamily = "sans-serif" // ✅ Font family support
+  fontFamily = "sans-serif" 
 }) {
   const [displayText, setDisplayText] = useState("");
   const [isComplete, setIsComplete] = useState(false);
