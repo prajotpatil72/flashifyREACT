@@ -101,10 +101,3 @@ components/
 
 You can preview this component in action [here](https://react-portfolio-one-plum.vercel.app/) (if included in your portfolio or demo site).
 
-## 🛠️ License
-
-MIT — Feel free to use, modify, and distribute.
-
-## 🙋‍♂️ Author
-
-Made by [Prajot Patil](https://github.com/prajot-patil) 🚀
